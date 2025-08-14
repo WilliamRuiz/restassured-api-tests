@@ -24,7 +24,7 @@ class CreateUserTest extends BaseAPI {
 
     UserDataFactory userDataFactory = new UserDataFactory();
     private static final String FAILED_VALIDATION =
-            "org.fernando.setup.data.provider.CreateUserDataProvider#failedValidations";
+            "org.william.setup.data.provider.CreateUserDataProvider#failedValidations";
 
     @Test
     @DisplayName("Create user successfully - expected code 201")

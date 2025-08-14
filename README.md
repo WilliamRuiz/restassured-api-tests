@@ -44,7 +44,7 @@ To run different groups/test suites, you can use the property `-D`, including th
 To automatically generate the test report. You can use the command line to generate it in two ways:
 
 * `mvn allure:serve`: will open the HTML report into the browser
-* `mvn allure:report`: will generate the HTML port at target/site/allure-maven-plugin folder
+* `mvn allure:report`: will generate the Hgit TML port at target/site/allure-maven-plugin folder
 
 ![Generated Allure Report](imgs/allure-report.png)
 
